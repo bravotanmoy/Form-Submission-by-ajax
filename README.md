@@ -1,3 +1,3 @@
 ## Ajax From submit
-From submit without page loading also all process are run 
+HTML From submit without page loading also all scripts are process.
 My Resume || Protfolio website [Tanmoy Biswas](http://tanmoyb.com/)
